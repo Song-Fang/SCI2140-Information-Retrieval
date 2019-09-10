@@ -1,1 +1,1 @@
-# SCI2140-Information-Retrieval
+# SCI2140-Information Retrieval and Storage
