@@ -1,11 +1,9 @@
 # SCI2140-Information Retrieval and Storage1
-# Please don't copy my codes, you can check it just for reference
-# Or the professor would be very angry and leading to bad results
+## Please don't copy my codes, you can check it only for reference or leading to very serious results
 ## Assignment 1
 ## Pre-procssing web and text content 
 ## tokenization & normalization & Filtering stop words
 ## Environment:
-
 JDK 1.8
 Eclipse java
 Create directory:data/input in the root directory (Already done)
@@ -13,24 +11,22 @@ Create directory:data/output in the root directory (Already done)
 Copy data file to above related directories
 Since the source data is so large, I have deleted it.
 
-
-##Instructions:
+## Instructions:
 1:unzip the file;
 2:use eclipse to load the project
 Click->openProject->src
 3:run HW1Main.java
 
-##For processing text file
+## For processing text file
 totally documents numbers:503473
 text corpus processing time: 2.8697666666min
 Use hashSet to filter stopWords
 Output file is results.trectext
 
-##For processing web file
+## For processing web file
 totally documents numbers:198362
 Web corpus processing time: 2.85845min
 Use hashSet to filter stopWords
 Output file is results.trectweb
 
-Processing time is under 10 min
-Very efficient!
+## Processing time is under 10 min. Very efficient!
