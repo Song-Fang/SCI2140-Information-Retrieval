@@ -13,10 +13,10 @@
 * Since the source data is so large, I have deleted it.
 
 ### Instructions:
-* 1:unzip the file;
-* 2:use eclipse to load the project
+* unzip the file;
+* use eclipse to load the project
 * Click->openProject->src
-* 3:run HW1Main.java
+* run HW1Main.java
 
 ### For processing text file
 * totally documents numbers:503473
