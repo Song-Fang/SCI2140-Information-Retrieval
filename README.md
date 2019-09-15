@@ -1,5 +1,5 @@
 ## SCI2140-Information Retrieval and Storage
-### <font color=#FF4500> Please don't copy my codes, you can check it only for reference.</font>
+### <font color="#FF4500"> Please don't copy my codes, you can check it only for reference.</font>
 ## Assignment 1
 ## Pre-procssing web and text content 
 ## tokenization & normalization & Filtering stop words
