@@ -1,5 +1,5 @@
 ## SCI2140-Information Retrieval and Storage
- <font size=10 color= red>Please don't copy my codes, you can check it only for reference.</font>
+```Please don't copy my codes, you can check it only for reference.```
 ## Assignment 1
 ### Content 
 * Pre-procssing web and text content 
