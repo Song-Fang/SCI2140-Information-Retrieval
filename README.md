@@ -1,8 +1,9 @@
 ## SCI2140-Information Retrieval and Storage
 ### Please don't copy my codes, you can check it only for reference.
 ## Assignment 1
-### Pre-procssing web and text content 
-### tokenization & normalization & Filtering stop words
+### Content 
+* Pre-procssing web and text content 
+* Retrieval Documents & Tokenization & Normalization & Filtering stop words
 ### Environment:
 * JDK 1.8
 * Eclipse java
